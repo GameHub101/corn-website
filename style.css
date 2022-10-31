@@ -1,0 +1,57 @@
+body {
+	margin: auto;
+	width: 750px;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	font-family: trebuchet, verdana, arial, helvetica, sans-serif;
+}
+
+h2 {
+	font-family: trebuchet, verdana, arial, helvetica, sans-serif;
+}
+
+hr {
+	background-color: #0000dd;
+	height: 8px;
+	text-allign: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+img {
+	display: block;
+	border-style: none;
+	margin: auto;
+}
+
+table {
+	width: 650px;
+	margin: auto;
+}
+
+.item {
+	text-align: left;
+}
+
+.QTY {
+	text-align: center;
+	width: 50px;
+}
+
+th {
+	background-color: #c0c0ff;
+}
+
+tr {
+	background-color: #cfffcf;
+}
+
+.itemnum {
+	width: 100px;
+}
+
+.name {
+	width: 500px;
+}
